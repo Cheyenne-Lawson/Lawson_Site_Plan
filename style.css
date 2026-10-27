@@ -1,13 +1,28 @@
-p {
-    color: rgb(125, 6, 136); /* type */
+body{
+    Background-color: #b948b9cc
+    ;
 }
 
-.card {
-    padding: 16px;
-    border: 2px solid;
-    margin: 24px 0;
+p{
+    color: #36054d;
+     background-color: #c23aa4d2;
+     padding: 20px;
 }
-
-* {
-    box-sizing: border-box;
+.card{
+    background-color: #c23aa4d2;
+    border: 1px solid #61558dda;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+header{
+    font-size: 30px;
+    padding: 20px;
+    border: 1px solid #61558dda;
+    background-color: #c23aa4d2;
+    border-radius: 5px;
+}
+.main-nav{
+    background-color: #b42065cc;
+    padding: 240px;
 }
