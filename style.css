@@ -1,0 +1,13 @@
+p {
+    color: rgb(125, 6, 136); /* type */
+}
+
+.card {
+    padding: 16px;
+    border: 2px solid;
+    margin: 24px 0;
+}
+
+* {
+    box-sizing: border-box;
+}
